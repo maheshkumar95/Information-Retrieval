@@ -1,0 +1,1 @@
+query_id Q0 docid rank TfIdf_score system_name
